@@ -17,5 +17,5 @@ sdmetrics
 prdc
 rdt
 openpyxl
-xgboost
+xgboost<2.1
 syntheval
